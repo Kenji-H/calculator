@@ -7,6 +7,7 @@
 <title>Input</title>
 </head>
 <body>
+	<bean:message key="message.welcome"/>
 	<html:form action="/calculate">
 		x=<html:text property="x"/><br/>
 		y=<html:text property="y"/><br/>

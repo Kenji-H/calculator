@@ -7,6 +7,7 @@
 <title>Output</title>
 </head>
 <body>
-Ans=<bean:write name="numberForm" property="ans" format="######"/>
+Ans=<bean:write name="numberForm" property="ans"/><br/>
+<bean:message key="message.result"/>
 </body>
 </html:html>
