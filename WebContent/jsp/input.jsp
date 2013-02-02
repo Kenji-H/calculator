@@ -14,7 +14,7 @@
 		<html:submit property="method" value="add" />
 		<html:submit property="method" value="subtract" />
 		<html:submit property="method" value="multiply" />
-		<html:submit property="method" value="devide" /><br/>
+		<html:submit property="method" value="divide" /><br/>
 		<html:reset value="reset" />
 	</html:form>
 </body>

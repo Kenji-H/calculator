@@ -25,7 +25,4 @@ public class NumberForm extends ActionForm {
 	public void setAns(int ans) {
 		this.ans = ans;
 	}
-	public static long getSerialversionuid() {
-		return serialVersionUID;
-	}
 }

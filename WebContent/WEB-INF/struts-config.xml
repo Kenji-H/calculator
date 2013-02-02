@@ -13,6 +13,8 @@
 			scope="session" parameter="method">
 			<forward name="output" path="/jsp/output.jsp"/>
 		</action>
+		<action path="/test" type="main.TestAction">
+		</action>
 	</action-mappings>
 	
 	<message-resources parameter="resources.message"/>
